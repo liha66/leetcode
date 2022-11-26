@@ -6,7 +6,7 @@
 |206|[反转链表](https://leetcode.cn/problems/reverse-linked-list/)|[JavaScript](linklist/206.reverse-linked-list.js)|简单|
 |92|[反转链表II](https://leetcode.cn/problems/reverse-linked-list-ii/)|[JavaScript](linklist/92.reverse-linked-list-ii.js)|中等|
 |25|[K个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/)|[JavaScript](linklist/25.reverse-nodes-in-k-group.js)|困难|
-|61|[旋转链表](https://leetcode.cn/problems/rotate-list/)||中等|
+|61|[旋转链表](https://leetcode.cn/problems/rotate-list/)|[JavaScript](linklist/61.rotate-list.js)|中等|
 |24|[两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/)||中等|
 |19|[删除链表的倒数第N个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)||中等|
 |83|[删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)||简单|
